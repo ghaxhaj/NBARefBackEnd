@@ -1,0 +1,47 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  season: 1
+  player_id: 1
+  games_played: 1
+  mpg: 1
+  fgm: 1
+  fga: 1
+  fgper: 1
+  three_pm: 1
+  three_pa: 1
+  three_per: 1
+  ftm: 1
+  fta: 1
+  ftper: 1
+  orpg: 1
+  drpg: 1
+  trpg: 1
+  apg: 1
+  bpg: 1
+  spg: 1
+  ppg: 1
+  topg: 1
+
+two:
+  season: 1
+  player_id: 1
+  games_played: 1
+  mpg: 1
+  fgm: 1
+  fga: 1
+  fgper: 1
+  three_pm: 1
+  three_pa: 1
+  three_per: 1
+  ftm: 1
+  fta: 1
+  ftper: 1
+  orpg: 1
+  drpg: 1
+  trpg: 1
+  apg: 1
+  bpg: 1
+  spg: 1
+  ppg: 1
+  topg: 1

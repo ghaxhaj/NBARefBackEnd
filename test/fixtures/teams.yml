@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  abbreviation: MyString
+  city: MyString
+  conference: MyString
+  division: MyString
+  name: MyString
+  img: MyString
+
+two:
+  abbreviation: MyString
+  city: MyString
+  conference: MyString
+  division: MyString
+  name: MyString
+  img: MyString

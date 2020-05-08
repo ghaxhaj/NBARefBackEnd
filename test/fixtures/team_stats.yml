@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  season: 1
+  team_id: 1
+  ppg: 1
+  papg: 1
+  rpg: 1
+  apg: 1
+  spg: 1
+  bpg: 1
+  topg: 1
+  fgper: 1
+  threefgper: MyString
+  integer: MyString
+  ftper: 1
+  efgper: 1
+
+two:
+  season: 1
+  team_id: 1
+  ppg: 1
+  papg: 1
+  rpg: 1
+  apg: 1
+  spg: 1
+  bpg: 1
+  topg: 1
+  fgper: 1
+  threefgper: MyString
+  integer: MyString
+  ftper: 1
+  efgper: 1
